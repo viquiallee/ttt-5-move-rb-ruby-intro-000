@@ -10,4 +10,4 @@ puts "Welcome to Tic Tac Toe!"
 puts display_board(" ")
 puts "Where would you like to go?"
 '1'.to_i 
-input_to_index 0 + 1 
+input_to_index 
