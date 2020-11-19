@@ -10,5 +10,11 @@ input_to_index
 '5'.to_i 
 5 - 1 
  
+board = [" ", ", ", " "]
+def
+  update_aray_at_with(array, index, value)
+  array[index] = value
+end
 
+update_array_at_with(board, "O", "X")
 
