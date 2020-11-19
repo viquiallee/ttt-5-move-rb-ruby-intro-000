@@ -9,5 +9,5 @@ end
 puts "Welcome to Tic Tac Toe!"
 puts display_board(" ")
 puts "Where would you like to go?"
-
-input_to_index = gets.strip
+'1'.to_i 
+input_to_index 0 + 1 
