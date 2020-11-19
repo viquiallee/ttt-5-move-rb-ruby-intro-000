@@ -9,8 +9,5 @@ end
 puts "Welcome to Tic Tac Toe!"
 puts display_board(" ")
 puts "Where would you like to go?"
-def input_to_index 
-  1-9to_i
-  0 + 1
-end  
+
 
