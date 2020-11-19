@@ -10,7 +10,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def
 update_array_at_with(array, index, value)
-1 - 1 = 0
+5 - 1 = 4
 end
 
 update_array_at_with(board, "O", "X")
