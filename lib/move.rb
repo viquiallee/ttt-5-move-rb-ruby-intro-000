@@ -11,7 +11,7 @@ end
 def input_to_index(user_input)
   move = user_input.to_i
   
-  binding.pry
+  #binding.pry
   
 end
 
